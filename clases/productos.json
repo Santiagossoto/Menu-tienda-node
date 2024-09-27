@@ -1,0 +1,68 @@
+[
+  {
+    "codigoProducto": "P001",
+    "nombreProducto": "Camiseta básica",
+    "inventarioProducto": 100,
+    "precioProducto": 35000
+  },
+  {
+    "codigoProducto": "P002",
+    "nombreProducto": "Pantalones vaqueros",
+    "inventarioProducto": 75,
+    "precioProducto": 75000
+  },
+  {
+    "codigoProducto": "P003",
+    "nombreProducto": "Zapatos deportivos",
+    "inventarioProducto": 50,
+    "precioProducto": 120000
+  },
+  {
+    "codigoProducto": "P004",
+    "nombreProducto": "Mochila escolar",
+    "inventarioProducto": 30,
+    "precioProducto": 55000
+  },
+  {
+    "codigoProducto": "P005",
+    "nombreProducto": "Reloj de pulsera",
+    "inventarioProducto": 20,
+    "precioProducto": 95000
+  },
+  {
+    "codigoProducto": "P006",
+    "nombreProducto": "Gafas de sol",
+    "inventarioProducto": 40,
+    "precioProducto": 45000
+  },
+  {
+    "codigoProducto": "P007",
+    "nombreProducto": "Libreta de cuero",
+    "inventarioProducto": 25,
+    "precioProducto": 25000
+  },
+  {
+    "codigoProducto": "P008",
+    "nombreProducto": "Taza de cerámica",
+    "inventarioProducto": 35,
+    "precioProducto": 18000
+  },
+  {
+    "codigoProducto": "P009",
+    "nombreProducto": "Lámpara de escritorio",
+    "inventarioProducto": 50,
+    "precioProducto": 65000
+  },
+  {
+    "codigoProducto": "P010",
+    "nombreProducto": "Bufanda de lana",
+    "inventarioProducto": 15,
+    "precioProducto": 40000
+  },
+  {
+    "codigoProducto": "4444",
+    "nombreProducto": "PRUEBA",
+    "inventarioProducto": 55555,
+    "precioProducto": 666666
+  }
+]
